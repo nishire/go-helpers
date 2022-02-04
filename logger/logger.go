@@ -6,7 +6,7 @@ import (
 	"path"
 	"sync"
 
-	"bitbucket.org/zestmoney/go-libraries/constants"
+	"go-helpers/constants"
 
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
